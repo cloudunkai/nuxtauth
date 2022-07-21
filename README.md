@@ -1,0 +1,2 @@
+# nuxtauth
+Created with CodeSandbox
